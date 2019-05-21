@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="676c07ab-a911-437a-b017-84ad6967f2a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/webAutomotion/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/webAutomation/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Facebook/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/ebay/target/" />
+    <ignored path="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/java/RegressionSuit/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1169#1170#0" expanded="true" />
+                <element signature="e#1252#1253#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1330#1331#0" expanded="true" />
+                <element signature="e#1386#1387#0" expanded="true" />
+                <element signature="e#1409#1410#0" expanded="true" />
+                <element signature="e#1472#1473#0" expanded="true" />
+                <element signature="e#1495#1496#0" expanded="true" />
+                <element signature="e#1553#1554#0" expanded="true" />
+                <element signature="e#1588#1589#0" expanded="true" />
+                <element signature="e#1633#1634#0" expanded="true" />
+                <element signature="e#1656#1657#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-9493">
+              <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/main/java/regression/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1724#1725#0" expanded="true" />
+                <element signature="e#1793#1794#0" expanded="true" />
+                <element signature="e#1271#1272#0" expanded="true" />
+                <element signature="e#1292#1293#0" expanded="true" />
+                <element signature="e#1714#1715#0" expanded="true" />
+                <element signature="e#1745#1746#0" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+                <element signature="e#1577#1578#0" expanded="true" />
+                <element signature="e#1723#1724#0" expanded="true" />
+                <element signature="e#1758#1759#0" expanded="true" />
+                <element signature="e#2162#2163#0" expanded="true" />
+                <element signature="e#2190#2191#0" expanded="true" />
+                <element signature="e#2292#2293#0" expanded="true" />
+                <element signature="e#2315#2316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/webAutomation/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Runner.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/java/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/utility/ExcelReader.java" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/databases/ConnectToSqlDB.java" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/main/java/regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/java/RegressionSuit/TestHomePage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="731" />
+    <option name="width" value="1160" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Team4-WebAutomotion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomation-Feb-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Team4-WebAutomotion" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="webAutomation" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/resources/drivers" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MD Ullah\Downloads\WebAutomation-Feb-master\WebAutomation-Feb-master\Generic\src\main\resources\drivers" />
+      <recent name="C:\Users\MD Ullah\Downloads\WebAutomation-Feb-master\WebAutomation-Feb-master\Generic\drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MD Ullah\Downloads\WebAutomation-Feb-master\WebAutomation-Feb-master\Amazon\src\test" />
+      <recent name="C:\Users\MD Ullah\Downloads\WebAutomation-Feb-master\WebAutomation-Feb-master\Amazon\src\main\resources" />
+      <recent name="C:\Users\MD Ullah\Downloads\WebAutomation-Feb-master\WebAutomation-Feb-master\Generic\src\main\resources\drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml">
+    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
+      <module name="generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="databases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utility.ExcelReader" />
+      <module name="generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegressionSuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegressionSuit" />
+      <option name="MAIN_CLASS_NAME" value="RegressionSuit.TestHomePage" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.clickAmazonLogo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RegressionSuit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RegressionSuit" />
+      <option name="MAIN_CLASS_NAME" value="RegressionSuit.TestHomePage" />
+      <option name="METHOD_NAME" value="clickAmazonLogo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" />
+        <item itemvalue="Application.ConnectToSqlDB" />
+        <item itemvalue="Application.ExcelReader" />
+        <item itemvalue="TestNG.TestHomePage" />
+        <item itemvalue="TestNG.TestHomePage.clickAmazonLogo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="676c07ab-a911-437a-b017-84ad6967f2a0" name="Default Changelist" comment="" />
+      <created>1558212529835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558212529835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 15h 23m 50s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 15h 28m 05s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 15h 41m 00s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 15h 53m 08s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 15h 56m 33s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 16h 02m 06s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 16h 25m 40s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 16h 32m 56s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 16h 41m 34s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_MD_Ullah_Downloads_WebAutomation-Feb-master_WebAutomation-Feb-master_Amazon_src_test_resources_Runner_xml - 2019.05.21 at 17h 00m 03s.xml">
+      <configuration name="C:/Users/MD Ullah/Downloads/WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4978903" visible="true" weight="0.1769437" />
+      <window_info id="Structure" order="6" sideWeight="0.5021097" side_tool="true" weight="0.25134048" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.55021214" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/webAutomotion/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/webAutomation/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/facebook/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/ebay/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/modulesPOM">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/java/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/resources/drivers/chromedriver.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="1148" column="29" selection-start-line="1148" selection-start-column="29" selection-end-line="1148" selection-end-column="29" />
+          <folding>
+            <element signature="e#25302#25303#0" expanded="true" />
+            <element signature="e#25341#25342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="747" column="19" selection-start-line="747" selection-start-column="19" selection-end-line="747" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/databases/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1055">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/utility/ExcelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="24" column="176" selection-start-line="24" selection-start-column="176" selection-end-line="24" selection-end-column="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/resources/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="29" column="62" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9493">
+          <caret line="38" column="55" lean-forward="true" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/reporting/TestLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Generic/src/main/java/reporting/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/java/RegressionSuit/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="80" column="31" selection-start-line="80" selection-start-column="31" selection-end-line="80" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1169#1170#0" expanded="true" />
+            <element signature="e#1252#1253#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1409#1410#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#1553#1554#0" expanded="true" />
+            <element signature="e#1588#1589#0" expanded="true" />
+            <element signature="e#1633#1634#0" expanded="true" />
+            <element signature="e#1656#1657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/test/resources/Runner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../WebAutomation-Feb-master/WebAutomation-Feb-master/Amazon/src/main/java/regression/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+            <element signature="e#1723#1724#0" expanded="true" />
+            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#2162#2163#0" expanded="true" />
+            <element signature="e#2190#2191#0" expanded="true" />
+            <element signature="e#2292#2293#0" expanded="true" />
+            <element signature="e#2315#2316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Amazon</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
